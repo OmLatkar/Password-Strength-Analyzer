@@ -12,15 +12,11 @@ Strength: Weak
 Risk Factor: 89.5%
 Warning: This password appears in the rockyou.txt breach database
 --------------------------------------------------
-Password: Sachhit@1045
+Password: ashutosh16122003
 Strength: Medium
-Risk Factor: 44.5%
+Risk Factor: 50.0%
 --------------------------------------------------
-Password: parikshit16122003
-Strength: Medium
-Risk Factor: 49.5%
---------------------------------------------------
-Password: Parikshit@16-12-2003
+Password: Manmohan@16-12-2003
 Strength: Strong
 Risk Factor: 0.0%
 --------------------------------------------------
