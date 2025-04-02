@@ -1,0 +1,53 @@
+Password Strength Analysis Report
+Generated at: 2025-04-02 19:46:27
+==================================================
+
+Password: hello
+Strength: Weak
+Risk Factor: 100.0%
+Warning: This password appears in the rockyou.txt breach database
+--------------------------------------------------
+Password: hello@123
+Strength: Weak
+Risk Factor: 89.5%
+Warning: This password appears in the rockyou.txt breach database
+--------------------------------------------------
+Password: Sachhit@1045
+Strength: Medium
+Risk Factor: 44.5%
+--------------------------------------------------
+Password: parikshit16122003
+Strength: Medium
+Risk Factor: 49.5%
+--------------------------------------------------
+Password: Parikshit@16-12-2003
+Strength: Strong
+Risk Factor: 0.0%
+--------------------------------------------------
+Password: abcdefghijklmnopqrstuvwxyz
+Strength: Weak
+Risk Factor: 91.5%
+Warning: This password appears in the rockyou.txt breach database
+--------------------------------------------------
+Password: Qu@ntum~L3ap>Fermi0n#2024!Schrödinger
+Strength: Strong
+Risk Factor: 0.0%
+--------------------------------------------------
+Password: there was a man who
+Strength: Strong
+Risk Factor: 31.5%
+--------------------------------------------------
+Password: tins23d
+Strength: Weak
+Risk Factor: 100.0%
+--------------------------------------------------
+Password: humanti234@
+Strength: Medium
+Risk Factor: 44.5%
+--------------------------------------------------
+Password: abc abc abc
+Strength: Medium
+Risk Factor: 59.5%
+--------------------------------------------------
+
+Analysis complete.
