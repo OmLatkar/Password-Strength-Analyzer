@@ -94,7 +94,7 @@ def extract_features(df, rockyou_set):
 @st.cache_data
 def load_data(rockyou_set):
     try:
-        file_path = Path(r'C:\Users\omlat\Downloads\archive (3)\data.csv')
+        file_path = Path('data.csv')
         df = pd.read_csv(file_path, 
                         header=None,
                         names=['password', 'strength'],
